@@ -1,0 +1,16 @@
+.card{
+    margin: 20px;
+    display: inline-block;
+}
+.card-img-top{
+    width: 250px;
+    height: 250px
+}
+
+#headertext{
+    margin: 20px;
+}
+
+#footer{
+    margin: 20px;
+}
